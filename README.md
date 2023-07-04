@@ -42,10 +42,10 @@ Our IDP metatdata can be found here:
   * https://test-idp-o365.geant.org/saml2/idp/metadata.php
 
 
-Be sure to ask for any support needed
+**Be sure to ask for any support needed
 (for example, server-side configuration changes)
 to enable authentication of your Service Provider
-using our IDP.
+using our IDP.**
 
 In the end, you should be able to
 demonstrate that a user is required to
