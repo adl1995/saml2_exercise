@@ -9,6 +9,8 @@ setup(
     url='https://github.com/erik-geant/saml2_exercise',
     packages=find_packages(),
     install_requires=[
-        'flask'
+        'flask',
+        'Flask-SAML',
+        'Flask-Principal',
     ]
 )
